@@ -1,7 +1,7 @@
 <?php
 
 
-define('RUTA', 'http://localhost/blog-clase/');
+define('RUTA', 'http://localhost/blog-clase');
 
 
 $bd_config = array(
